@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kevin’s Games 2</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #007BFF; /* Blue background */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 20px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #ffffff;
+            font-weight: bold;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        .game {
+            margin: 20px 0;
+        }
+        .game iframe {
+            width: 100%;
+            height: 500px;
+            border: none;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kevin’s Games 2</h1>
+    </header>
+    <nav>
+        <a href="#basketball">Basketball</a>
+        <a href="#football">Football</a>
+        <a href="#soccer">Soccer</a>
+        <a href="#flight-simulator">Flight Simulator</a>
+        <a href="#robot-game">Robot Game</a>
+        <a href="#escape-room-1">Escape Room 1</a>
+        <a href="#escape-room-2">Escape Room 2</a>
+        <a href="#escape-room-3">Escape Room 3</a>
+        <a href="#escape-room-4">Escape Room 4</a>
+        <a href="#escape-room-5">Escape Room 5</a>
+        <a href="#escape-room-6">Escape Room 6</a>
+        <a href="#escape-room-7">Escape Room 7</a>
+        <a href="#escape-room-8">Escape Room 8</a>
+        <a href="#escape-room-9">Escape Room 9</a>
+        <a href="#escape-room-10">Escape Room 10</a>
+        <a href="#drift-boss">Drift Boss</a>
+        <a href="#more-games">More Games</a>
+    </nav>
+    <section id="basketball">
+        <h2>Basketball</h2>
+        <div class="game">
+            <p>Placeholder for Basketball game.</p>
+        </div>
+    </section>
+    <section id="football">
+        <h2>Football</h2>
+        <div class="game">
+            <p>Placeholder for Football game.</p>
+        </div>
+    </section>
+    <section id="soccer">
+        <h2>Soccer</h2>
+        <div class="game">
+            <p>Placeholder for Soccer game.</p>
+        </div>
+    </section>
+    <section id="flight-simulator">
+        <h2>Flight Simulator</h2>
+        <div class="game">
+            <iframe src="https://scratch.mit.edu/projects/74221074/embed" allowtransparency="true" scrolling="no" allowfullscreen></iframe>
+        </div>
+    </section>
+    <section id="robot-game">
+        <h2>Robot Game</h2>
+        <div class="game">
+            <iframe src="https://scratch.mit.edu/projects/489159823/embed" allowtransparency="true" scrolling="no" allowfullscreen></iframe>
+        </div>
+    </section>
+    <section id="escape-room-1">
+        <h2>Escape Room 1</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/findhqneighborhood.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="escape-room-2">
+        <h2>Escape Room 2</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/findhqgym.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="escape-room-3">
+        <h2>Escape Room 3</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/hoodaescapeghosthouse.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="escape-room-4">
+        <h2>Escape Room 4</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/hoodaescapeicecreamshop.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="escape-room-5">
+        <h2>Escape Room 5</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/hoodaescapemathmansion.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="escape-room-6">
+        <h2>Escape Room 6</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/hoodaescaperocketship.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="escape-room-7">
+        <h2>Escape Room 7</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/hoodaescapeufo.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="escape-room-8">
+        <h2>Escape Room 8</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/hoodaescapeairfield.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="escape-room-9">
+        <h2>Escape Room 9</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/hoodaescapeautofactory.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="escape-room-10">
+        <h2>Escape Room 10</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/hoodaescapefyrefestival.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="drift-boss">
+        <h2>Drift Boss</h2>
+        <div class="game">
+            <iframe src="https://www.hoodamath.com/games/driftboss.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </section>
+    <section id="more-games">
+        <h2>More Games</h2>
+        <div class="game">
+            <p>Placeholder for additional games.</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 Kevin’s Games 2</p>
+    </footer>
+</body>
+</html>
